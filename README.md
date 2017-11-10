@@ -1,1 +1,1 @@
-Pierwsze kroki z Pythonem czysta teoria.
+# Pierwsze kroki z Pythonem czysta teoria
