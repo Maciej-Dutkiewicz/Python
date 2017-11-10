@@ -1,1 +1,0 @@
-# Pierwsze kroki z Pythonem czysta teoria
